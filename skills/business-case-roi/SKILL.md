@@ -1,6 +1,6 @@
 ---
 name: business-case-roi
-description: Build a defensible business case and ROI model that ties the value of your solution to the buyer's own stated metrics. Use when a champion needs ammo for internal sign-off or procurement. Triggers on: business case, ROI, justify the spend, value model, build the case.
+description: "Build a defensible business case and ROI model that ties the value of your solution to the buyer's own stated metrics. Use when a champion needs ammo for internal sign-off or procurement. Triggers on: business case, ROI, justify the spend, value model, build the case."
 ---
 
 # Business Case & ROI

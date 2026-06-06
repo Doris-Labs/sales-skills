@@ -1,6 +1,6 @@
 ---
 name: post-call-followup
-description: Turn a sales call into a follow-up email, clear next steps, and a clean CRM update. Use after a discovery, demo, or any customer call. Triggers on: follow up email, post call, recap email, log this call, update the deal.
+description: "Turn a sales call into a follow-up email, clear next steps, and a clean CRM update. Use after a discovery, demo, or any customer call. Triggers on: follow up email, post call, recap email, log this call, update the deal."
 ---
 
 # Post-Call Follow-Up

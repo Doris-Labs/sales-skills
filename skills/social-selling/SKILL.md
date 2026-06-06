@@ -1,6 +1,6 @@
 ---
 name: social-selling
-description: Run LinkedIn outreach that earns the reply — warm a prospect through their profile and posts before you pitch, then send a connection note and first-message sequence built on real context. Use when reaching out cold on LinkedIn or planning a social-selling cadence. Triggers on: LinkedIn outreach, social selling, connection request, comment strategy, LinkedIn message.
+description: "Run LinkedIn outreach that earns the reply — warm a prospect through their profile and posts before you pitch, then send a connection note and first-message sequence built on real context. Use when reaching out cold on LinkedIn or planning a social-selling cadence. Triggers on: LinkedIn outreach, social selling, connection request, comment strategy, LinkedIn message."
 ---
 
 # Social Selling

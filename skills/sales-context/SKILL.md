@@ -1,6 +1,6 @@
 ---
 name: sales-context
-description: Foundational context every sales skill reads first — the AE's ICP, deal sizes, sales motion, qualification framework, and which tools/MCPs are connected. Use at the start of any sales task. Triggers on: sales context, set up sales, my pipeline, who do I sell to, which tools are connected.
+description: "Foundational context every sales skill reads first — the AE's ICP, deal sizes, sales motion, qualification framework, and which tools/MCPs are connected. Use at the start of any sales task. Triggers on: sales context, set up sales, my pipeline, who do I sell to, which tools are connected."
 ---
 
 # Sales Context

@@ -1,6 +1,6 @@
 ---
 name: meddpicc-qualification
-description: Score a deal against MEDDPICC, separate evidence from assumption on every element, and turn the gaps into specific next actions. Use to pressure-test whether a deal is real and where it's exposed. Triggers on: qualify this deal, MEDDPICC, is this real, qualification gaps, score this deal.
+description: "Score a deal against MEDDPICC, separate evidence from assumption on every element, and turn the gaps into specific next actions. Use to pressure-test whether a deal is real and where it's exposed. Triggers on: qualify this deal, MEDDPICC, is this real, qualification gaps, score this deal."
 ---
 
 # MEDDPICC Qualification

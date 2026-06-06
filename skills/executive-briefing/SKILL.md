@@ -1,6 +1,6 @@
 ---
 name: executive-briefing
-description: Turn a deal into a one-page executive brief an exec can read in 60 seconds — outcome and recommendation first, business impact, the ask, risks, and timeline, tailored to a CFO, CEO, or CRO lens. Use when briefing leadership, your VP, or a customer's executive sponsor. Triggers on: executive summary, brief the exec, C-level summary, board-ready, exec brief.
+description: "Turn a deal into a one-page executive brief an exec can read in 60 seconds — outcome and recommendation first, business impact, the ask, risks, and timeline, tailored to a CFO, CEO, or CRO lens. Use when briefing leadership, your VP, or a customer's executive sponsor. Triggers on: executive summary, brief the exec, C-level summary, board-ready, exec brief."
 ---
 
 # Executive Briefing

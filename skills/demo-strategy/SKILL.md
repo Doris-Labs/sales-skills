@@ -1,6 +1,6 @@
 ---
 name: demo-strategy
-description: Plan a demo that maps every feature shown to a named buyer pain, lands one wow moment, and is tailored to the people in the room. Use before a product demo or technical walkthrough. Triggers on: plan the demo, demo strategy, tailor the demo, demo prep, demo flow.
+description: "Plan a demo that maps every feature shown to a named buyer pain, lands one wow moment, and is tailored to the people in the room. Use before a product demo or technical walkthrough. Triggers on: plan the demo, demo strategy, tailor the demo, demo prep, demo flow."
 ---
 
 # Demo Strategy

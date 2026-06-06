@@ -1,6 +1,6 @@
 ---
 name: discovery-call
-description: Lead a discovery call that uncovers real pain, quantifies it, and locks the next step before you hang up. Use before or during a discovery call to prep questions and structure. Triggers on: run discovery, discovery framework, lead the call, qualify on the call, discovery technique.
+description: "Lead a discovery call that uncovers real pain, quantifies it, and locks the next step before you hang up. Use before or during a discovery call to prep questions and structure. Triggers on: run discovery, discovery framework, lead the call, qualify on the call, discovery technique."
 ---
 
 # Discovery Call

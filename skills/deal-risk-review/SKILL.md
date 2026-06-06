@@ -1,6 +1,6 @@
 ---
 name: deal-risk-review
-description: Diagnose whether a deal is at risk of slipping or dying, score each risk, prescribe a mitigation, and give a red/yellow/green verdict. Use before forecast calls, pipeline reviews, or when a deal feels stuck. Triggers on: is this deal at risk, deal health, risk review, will this close, deal risk.
+description: "Diagnose whether a deal is at risk of slipping or dying, score each risk, prescribe a mitigation, and give a red/yellow/green verdict. Use before forecast calls, pipeline reviews, or when a deal feels stuck. Triggers on: is this deal at risk, deal health, risk review, will this close, deal risk."
 ---
 
 # Deal Risk Review

@@ -1,6 +1,6 @@
 ---
 name: stakeholder-mapping
-description: Map the buying committee on a deal — who holds power, who's on your side, and which roles you haven't reached yet — then build a plan to close the gaps. Use when a deal feels single-threaded, before a big meeting, or when forecasting risk. Triggers on: map stakeholders, buying committee, who else, power map, stakeholder map.
+description: "Map the buying committee on a deal — who holds power, who's on your side, and which roles you haven't reached yet — then build a plan to close the gaps. Use when a deal feels single-threaded, before a big meeting, or when forecasting risk. Triggers on: map stakeholders, buying committee, who else, power map, stakeholder map."
 ---
 
 # Stakeholder Mapping

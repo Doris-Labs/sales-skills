@@ -1,6 +1,6 @@
 ---
 name: sequence-writing
-description: Design a multi-touch outreach cadence — channel mix, timing, a distinct angle per touch, and a breakup email — that earns replies instead of getting muted. Use when building prospecting or follow-up outreach across email, call, and LinkedIn. Triggers on: build a sequence, cadence, multi-touch, follow-up sequence, outreach sequence.
+description: "Design a multi-touch outreach cadence — channel mix, timing, a distinct angle per touch, and a breakup email — that earns replies instead of getting muted. Use when building prospecting or follow-up outreach across email, call, and LinkedIn. Triggers on: build a sequence, cadence, multi-touch, follow-up sequence, outreach sequence."
 ---
 
 # Sequence Writing

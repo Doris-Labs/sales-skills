@@ -1,6 +1,6 @@
 ---
 name: prospecting
-description: Build a prioritized, "why now"-backed target list of accounts worth working — filtered to your ICP, scored on fit and intent, and ordered by trigger. Use when you need to decide who to go after next. Triggers on: build a prospect list, find accounts, who to target, prospecting, target list.
+description: "Build a prioritized, \"why now\"-backed target list of accounts worth working — filtered to your ICP, scored on fit and intent, and ordered by trigger. Use when you need to decide who to go after next. Triggers on: build a prospect list, find accounts, who to target, prospecting, target list."
 ---
 
 # Prospecting

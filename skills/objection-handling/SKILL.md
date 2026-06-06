@@ -1,6 +1,6 @@
 ---
 name: objection-handling
-description: Turn a buyer objection into a calm, evidence-backed response that keeps the deal moving. Use when a prospect pushes back on price, timing, status quo, a competitor, or authority. Triggers on: handle objection, they said, pushback, objection response, how do I respond.
+description: "Turn a buyer objection into a calm, evidence-backed response that keeps the deal moving. Use when a prospect pushes back on price, timing, status quo, a competitor, or authority. Triggers on: handle objection, they said, pushback, objection response, how do I respond."
 ---
 
 # Objection Handling

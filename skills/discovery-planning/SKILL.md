@@ -1,6 +1,6 @@
 ---
 name: discovery-planning
-description: Build a discovery call plan — a hypothesis-driven question tree, a pain-to-impact-to-priority ladder, and multi-threading targets — so you walk in knowing exactly what to ask and why. Use before a discovery call or any meeting where you need to uncover problem, impact, and decision process. Triggers on: plan discovery, discovery questions, what to ask, discovery prep, question plan.
+description: "Build a discovery call plan — a hypothesis-driven question tree, a pain-to-impact-to-priority ladder, and multi-threading targets — so you walk in knowing exactly what to ask and why. Use before a discovery call or any meeting where you need to uncover problem, impact, and decision process. Triggers on: plan discovery, discovery questions, what to ask, discovery prep, question plan."
 ---
 
 # Discovery Planning

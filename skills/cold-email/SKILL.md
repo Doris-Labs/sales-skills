@@ -1,6 +1,6 @@
 ---
 name: cold-email
-description: Write a cold outreach email that earns a reply — one problem, a real relevance hook, brevity, and a single low-friction ask. Use for first-touch prospecting into a new account or persona. Triggers on: cold email, write outreach, first touch email, break in, cold outreach.
+description: "Write a cold outreach email that earns a reply — one problem, a real relevance hook, brevity, and a single low-friction ask. Use for first-touch prospecting into a new account or persona. Triggers on: cold email, write outreach, first touch email, break in, cold outreach."
 ---
 
 # Cold Email

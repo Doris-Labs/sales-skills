@@ -1,6 +1,6 @@
 ---
 name: meeting-prep
-description: Turn an upcoming sales call into a one-page brief — who's in the room, why they're meeting, what to ask, what to land, and the single next step you're driving toward. Use before a discovery, demo, or any customer meeting. Triggers on: prep for my meeting, meeting prep, prep this call, call brief, prepare for the meeting.
+description: "Turn an upcoming sales call into a one-page brief — who's in the room, why they're meeting, what to ask, what to land, and the single next step you're driving toward. Use before a discovery, demo, or any customer meeting. Triggers on: prep for my meeting, meeting prep, prep this call, call brief, prepare for the meeting."
 ---
 
 # Meeting Prep

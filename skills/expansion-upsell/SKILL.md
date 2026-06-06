@@ -1,6 +1,6 @@
 ---
 name: expansion-upsell
-description: Grow an existing account — map whitespace, read expansion-readiness signals, run the land-and-expand play, and time the ask to value realization. Use when planning how to expand, upsell, or cross-sell into a current customer. Triggers on: expansion, upsell, grow this account, cross-sell, land and expand.
+description: "Grow an existing account — map whitespace, read expansion-readiness signals, run the land-and-expand play, and time the ask to value realization. Use when planning how to expand, upsell, or cross-sell into a current customer. Triggers on: expansion, upsell, grow this account, cross-sell, land and expand."
 ---
 
 # Expansion & Upsell

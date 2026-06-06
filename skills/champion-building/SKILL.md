@@ -1,6 +1,6 @@
 ---
 name: champion-building
-description: Find, arm, test, and develop a real champion inside a deal — someone with power who sells for you when you're not in the room. Use when assessing whether you actually have a champion or building one. Triggers on: build a champion, do I have a champion, develop my champion, coach them, champion.
+description: "Find, arm, test, and develop a real champion inside a deal — someone with power who sells for you when you're not in the room. Use when assessing whether you actually have a champion or building one. Triggers on: build a champion, do I have a champion, develop my champion, coach them, champion."
 ---
 
 # Champion Building

@@ -1,6 +1,6 @@
 ---
 name: renewal-churn-save
-description: Spot a renewal at risk, prove the value you've delivered, and run a save play before the customer churns. Use when a renewal is approaching or an account shows churn signals. Triggers on: renewal, churn risk, save this account, at-risk customer, renewal risk.
+description: "Spot a renewal at risk, prove the value you've delivered, and run a save play before the customer churns. Use when a renewal is approaching or an account shows churn signals. Triggers on: renewal, churn risk, save this account, at-risk customer, renewal risk."
 ---
 
 # Renewal & Churn Save

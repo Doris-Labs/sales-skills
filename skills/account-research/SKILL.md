@@ -1,6 +1,6 @@
 ---
 name: account-research
-description: Build a sharp, one-page account brief before a call — firmographics, recent triggers, the likely buying committee, mapped pains, and hypotheses to test. Use before a discovery call, an outbound push, or any first touch with a new account. Triggers on: research this account, company research, account brief, who are they, account profile.
+description: "Build a sharp, one-page account brief before a call — firmographics, recent triggers, the likely buying committee, mapped pains, and hypotheses to test. Use before a discovery call, an outbound push, or any first touch with a new account. Triggers on: research this account, company research, account brief, who are they, account profile."
 ---
 
 # Account Research

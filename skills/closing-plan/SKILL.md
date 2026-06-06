@@ -1,6 +1,6 @@
 ---
 name: closing-plan
-description: Build a step-by-step path to signature for a live deal — mapping every gate, owner, and date between now and a signed contract. Use when a deal needs a close plan or you're driving toward a signing date. Triggers on: close plan, how do I close, path to close, get this signed, closing steps.
+description: "Build a step-by-step path to signature for a live deal — mapping every gate, owner, and date between now and a signed contract. Use when a deal needs a close plan or you're driving toward a signing date. Triggers on: close plan, how do I close, path to close, get this signed, closing steps."
 ---
 
 # Closing Plan

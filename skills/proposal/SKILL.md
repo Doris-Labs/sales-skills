@@ -1,6 +1,6 @@
 ---
 name: proposal
-description: Write a deal-specific proposal or SOW that mirrors the buyer's own priorities, scopes the solution to what they asked for, and ends in one clear next step. Use when drafting a proposal, statement of work, or quote document after value is established. Triggers on: write a proposal, proposal, SOW, quote document, write up the proposal.
+description: "Write a deal-specific proposal or SOW that mirrors the buyer's own priorities, scopes the solution to what they asked for, and ends in one clear next step. Use when drafting a proposal, statement of work, or quote document after value is established. Triggers on: write a proposal, proposal, SOW, quote document, write up the proposal."
 ---
 
 # Proposal

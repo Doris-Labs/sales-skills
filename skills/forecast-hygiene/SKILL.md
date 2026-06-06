@@ -1,6 +1,6 @@
 ---
 name: forecast-hygiene
-description: Audit a pipeline forecast for category discipline, evidence, and close-date sanity, then output a cleaned, defensible forecast. Use before a forecast call or pipeline review. Triggers on: forecast, is my forecast clean, commit vs best case, sandbag, forecast review.
+description: "Audit a pipeline forecast for category discipline, evidence, and close-date sanity, then output a cleaned, defensible forecast. Use before a forecast call or pipeline review. Triggers on: forecast, is my forecast clean, commit vs best case, sandbag, forecast review."
 ---
 
 # Forecast Hygiene

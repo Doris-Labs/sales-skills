@@ -1,6 +1,6 @@
 ---
 name: pipeline-review
-description: Turn a messy pipeline into a coverage verdict, a stage-health read, an aging/stalled-deal list, and a ranked "work this first" plan. Use before a forecast call, 1:1, or whenever the pipeline feels off. Triggers on: review my pipeline, pipeline health, coverage, what's stuck, pipeline review.
+description: "Turn a messy pipeline into a coverage verdict, a stage-health read, an aging/stalled-deal list, and a ranked \"work this first\" plan. Use before a forecast call, 1:1, or whenever the pipeline feels off. Triggers on: review my pipeline, pipeline health, coverage, what's stuck, pipeline review."
 ---
 
 # Pipeline Review

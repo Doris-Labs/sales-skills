@@ -1,6 +1,6 @@
 ---
 name: deal-review-prep
-description: Prep an AE for a deal review or pipeline 1:1 with their manager — a crisp per-deal one-liner, anticipated probes, the help to ask for, and clean review notes. Use before a manager review or forecast call. Triggers on: deal review prep, prep for 1:1, manager review, pipeline 1:1, deal review.
+description: "Prep an AE for a deal review or pipeline 1:1 with their manager — a crisp per-deal one-liner, anticipated probes, the help to ask for, and clean review notes. Use before a manager review or forecast call. Triggers on: deal review prep, prep for 1:1, manager review, pipeline 1:1, deal review."
 ---
 
 # Deal Review Prep

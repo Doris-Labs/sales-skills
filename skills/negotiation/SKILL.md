@@ -1,6 +1,6 @@
 ---
 name: negotiation
-description: Negotiate price and terms without caving — trade every concession for something of value, protect price by re-selling value, and defuse manufactured urgency. Use when a buyer asks for a discount, pushes back on price, or you're closing the terms. Triggers on: negotiate, discount, pricing pushback, close the terms, give a discount.
+description: "Negotiate price and terms without caving — trade every concession for something of value, protect price by re-selling value, and defuse manufactured urgency. Use when a buyer asks for a discount, pushes back on price, or you're closing the terms. Triggers on: negotiate, discount, pricing pushback, close the terms, give a discount."
 ---
 
 # Negotiation

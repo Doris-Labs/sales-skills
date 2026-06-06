@@ -1,6 +1,6 @@
 ---
 name: multithreading
-description: Widen a deal beyond a single contact by mapping the buying committee, finding intro paths, and tailoring a value angle per role. Use when a deal is single-threaded or you need to reach more people. Triggers on: multithread, single threaded, reach more people, widen the deal, more contacts.
+description: "Widen a deal beyond a single contact by mapping the buying committee, finding intro paths, and tailoring a value angle per role. Use when a deal is single-threaded or you need to reach more people. Triggers on: multithread, single threaded, reach more people, widen the deal, more contacts."
 ---
 
 # Multithreading

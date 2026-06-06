@@ -1,6 +1,6 @@
 ---
 name: crm-hygiene
-description: Audit your CRM deals against reality, flag stale and contradictory fields, and produce write-back corrections you can approve. Use to clean up a messy pipeline before a forecast call or a 1:1. Triggers on: clean up CRM, CRM hygiene, update my deals, stale fields, fix my CRM.
+description: "Audit your CRM deals against reality, flag stale and contradictory fields, and produce write-back corrections you can approve. Use to clean up a messy pipeline before a forecast call or a 1:1. Triggers on: clean up CRM, CRM hygiene, update my deals, stale fields, fix my CRM."
 ---
 
 # CRM Hygiene

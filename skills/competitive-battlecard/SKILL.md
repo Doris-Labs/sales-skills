@@ -1,6 +1,6 @@
 ---
 name: competitive-battlecard
-description: Build an honest, actionable competitive battlecard for a live deal — where you win, where they win, landmines to plant, trap questions, rebuttals, and proof points. Use when a competitor is in the deal or the buyer is evaluating an alternative. Triggers on: battlecard, competitor, vs competitor, compete against, competitive.
+description: "Build an honest, actionable competitive battlecard for a live deal — where you win, where they win, landmines to plant, trap questions, rebuttals, and proof points. Use when a competitor is in the deal or the buyer is evaluating an alternative. Triggers on: battlecard, competitor, vs competitor, compete against, competitive."
 ---
 
 # Competitive Battlecard

@@ -1,6 +1,6 @@
 ---
 name: mutual-action-plan
-description: Build a mutual action plan (MAP) with the buyer — backward-planned milestones from go-live, owners on both sides, and the decision/procurement/legal/security steps that actually gate close. Use when a deal needs a joint close plan. Triggers on: mutual action plan, MAP, close plan with buyer, joint plan, success plan.
+description: "Build a mutual action plan (MAP) with the buyer — backward-planned milestones from go-live, owners on both sides, and the decision/procurement/legal/security steps that actually gate close. Use when a deal needs a joint close plan. Triggers on: mutual action plan, MAP, close plan with buyer, joint plan, success plan."
 ---
 
 # Mutual Action Plan

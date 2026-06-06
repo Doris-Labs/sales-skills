@@ -52,6 +52,11 @@ for dir in "$SKILLS_DIR"/*/; do
     echo "FAIL [$name]: description must include 'Triggers on:'"; fail=1
   fi
 
+  # description value must be double-quoted (it contains ': ' which breaks bare YAML)
+  if ! grep -qE '^description:[[:space:]]*"' "$file"; then
+    echo "FAIL [$name]: description value must be wrapped in double quotes (YAML-safe)"; fail=1
+  fi
+
   # Required headings
   for h in "${REQUIRED_HEADINGS[@]}"; do
     if ! grep -qF "$h" "$file"; then
