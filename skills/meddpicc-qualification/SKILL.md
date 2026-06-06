@@ -104,8 +104,8 @@ asking the user to recall everything:
   element, and `stakeholders` against Economic buyer and Champion.
 - Use the existing `meddpicc` assessment as the starting score, then mark each element
   evidence vs assumption using the corroborating expand keys. If `meddpicc` is absent
-  or sparse, run the qualification interactively (see Tier 3) and use the other keys
-  as evidence.
+  or sparse, run the qualification interactively (see *With nothing connected* below)
+  and use the other keys as evidence.
 - `search_transcripts(...)` to quote the exact buyer language behind a score.
 Prefer Doris's evidence-derived signals over re-deriving from memory.
 

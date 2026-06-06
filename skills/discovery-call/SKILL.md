@@ -78,8 +78,8 @@ already surfaced on this deal instead of starting cold:
   implication questions around known objections, and reuse tactics that have worked.
 - `search_transcripts(...)` to pull the buyer's exact prior words so your situation
   questions skip what they've already told you.
-Building on already-surfaced pain signals you've listened — and lets you spend the call
-quantifying and advancing, not re-discovering.
+Building on already-surfaced pain signals frees you to spend the call quantifying and
+advancing, not re-discovering what the buyer has already told you.
 
 ### With a CRM / CI / email MCP
 - Conversation-intelligence MCP (Gong/Chorus/Fireflies) → pull recent-call context and
