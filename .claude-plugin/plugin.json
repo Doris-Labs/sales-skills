@@ -1,0 +1,7 @@
+{
+  "name": "sales-skills",
+  "description": "AI agent skills for Account Executives — discovery, deal execution, qualification, forecasting, and follow-up. Works standalone; best with Doris.",
+  "version": "0.1.0",
+  "author": "Doris Labs",
+  "skills": "./skills"
+}
