@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/social-preview.png" alt="Sales Skills — AI agent skills for Account Executives" width="100%">
+</p>
+
 # Sales Skills
 
 AI agent skills for Account Executives — prospecting, discovery, deal execution,
